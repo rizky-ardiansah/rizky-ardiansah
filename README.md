@@ -1,5 +1,7 @@
 <div align="center">
-  # Hi there, I'm Rizky Ardiansah 👋
+  <h1>Hi there, I'm Rizky Ardiansah 👋</h1>
+</div>
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDAE&center=true&vCenter=true&width=435&lines=Informatics+Student;Backend+Developer;Always+Learning" alt="Typing SVG" />
   
   [![Website](https://img.shields.io/badge/Website-rizkyardiansah--blog-blue?style=for-the-badge&logo=vercel)](https://rizkyardiansah-blog.vercel.app/)
