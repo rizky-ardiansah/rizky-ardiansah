@@ -12,14 +12,7 @@
 
 - 🔭 Informatics student passionate about backend development
 - 🌱 Currently learning **Go**, **React**, and **NextJS**
-- ✍️ I regularly write articles on [my blog](https://rizkyardiansah-blog.vercel.app/)
-- 💬 Ask me about backend development, especially with Node.js and Express
 - 📫 Reach me at: **rizkyardiansah.dev@gmail.com**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizkyardiansah&show_icons=true&theme=radical" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyardiansah&layout=compact&theme=radical" alt="Top Languages" height="170" />
-</div>
 
 ## 🛠️ Tech Stack
 
@@ -46,6 +39,7 @@
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### Tools
 
