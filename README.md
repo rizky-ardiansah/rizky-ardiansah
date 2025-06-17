@@ -1,67 +1,123 @@
 <div align="center">
   <h1>Hi there, I'm Rizky Ardiansah 👋</h1>
 </div>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDAE&center=true&vCenter=true&width=435&lines=Informatics+Student;Backend+Developer;Always+Learning" alt="Typing SVG" />
-  
-  [![Website](https://img.shields.io/badge/Website-rizkyardiansah--blog-blue?style=for-the-badge&logo=vercel)](https://rizkyardiansah-blog.vercel.app/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-rizkyardiansah-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rizkyardiansah/)
-  [![Email](https://img.shields.io/badge/Email-rizkyardiansah.dev%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:rizkyardiansah.dev@gmail.com)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Informatics+Student+%F0%9F%93%9A;Always+Learning+%26+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 </div>
 
-## 💫 About Me
+<div align="center">
+  <a href="https://rizkyardiansah-blog.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Website-4285F4?style=for-the-badge&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rizkyardiansah/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rizkyardiansah.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/rizkyardiansah" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
 
-- 🔭 Informatics student passionate about backend development
-- 🌱 Currently learning **Go**, **React**, and **NextJS**
-- 📫 Reach me at: **rizkyardiansah.dev@gmail.com**
+<br/>
+
+## 🧑‍💻 About Me
+
+Hello! I'm **Rizky Ardiansah**, an Informatics Engineering student passionate about backend development. Currently, I'm focused on learning **Go** and **Node.js** to build scalable and efficient backend applications.
+
+💡 I love exploring new technologies and I'm always excited to collaborate on interesting projects!
 
 ## 🛠️ Tech Stack
 
-### Languages
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+### 💻 Languages & Core Technologies
 
-### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=go,js,html,css,typescript" />
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 🎨 Frontend Development
 
-### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-![GoFiber](https://img.shields.io/badge/GoFiber-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+### ⚙️ Backend & Server Technologies
 
-### Databases
+<p>
+  <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo.svg" alt="Fiber" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="Gin" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,docker" />
+</p>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+### 🗄️ Databases & Storage
 
-### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma" />
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🔧 Tools
 
-## 📫 Connect with me
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/rizkyardiansah/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</div>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🌟 Golang Note App
+
+<p>
+  <a href="https://go-noteapp.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🔗_Live_Demo-00ADD8?style=for-the-badge&logoColor=white"/>
   </a>
-  <a href="https://github.com/rizkyardiansah" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+</p>
+
+```
+🎯 A modern note-taking application built with Go
+📦 Tech Stack: Go, GoFiber, PostgreSQL, React
+✨ Features: CRUD operations, User authentication
+```
+
+### 📝 NextBlog - Personal Blog
+
+<p>
+  <a href="https://rizkyardiansah-blog.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🔗_Live_Demo-000000?style=for-the-badge&logoColor=white"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+```
+🎯 A personal blog platform with modern design
+📦 Tech Stack: Next.js, Clerk, Tailwind CSS, Prisma
+✨ Features: Responsive design, Fast loading
+```
+
+</div>
+
+### 🌟 Open to:
+
+- 💼 **Job Opportunities** - Backend Developer roles
+- 🤝 **Collaborations** - Open source projects
+
 </div>
 
 ---
 
 <div align="center">
-
-  <p>Thanks for visiting my profile! Have a nice day! 👋</p>
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer"/>
+  
+  <h3>✨ Thanks for visiting my profile! ✨</h3>
+  <p><em>Keep coding, keep learning, and let's build the future together! 🚀</em></p>
