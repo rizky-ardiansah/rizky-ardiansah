@@ -77,7 +77,7 @@ Hello! I'm **Rizky Ardiansah**, an Informatics Engineering student passionate ab
   <a href="https://go-noteapp.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/🔗_Live_Demo-00ADD8?style=for-the-badge&logoColor=white"/>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://github.com/rizky-ardiansah/go-fiber-gorm-jwt" target="_blank">
     <img src="https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -94,7 +94,7 @@ Hello! I'm **Rizky Ardiansah**, an Informatics Engineering student passionate ab
   <a href="https://rizkyardiansah-blog.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🔗_Live_Demo-000000?style=for-the-badge&logoColor=white"/>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://github.com/rizky-ardiansah/next-clerk" target="_blank">
     <img src="https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
