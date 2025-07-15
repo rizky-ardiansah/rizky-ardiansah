@@ -16,9 +16,6 @@
   <a href="mailto:rizkyardiansah.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/rizkyardiansah" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 </div>
 
 <br/>
@@ -67,45 +64,7 @@ Hello! I'm **Rizky Ardiansah**, an Informatics Engineering student passionate ab
 
 </div>
 
-## 🚀 Featured Projects
 
-<div align="center">
-
-### 🌟 Golang Note App
-
-<p>
-  <a href="https://go-noteapp.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🔗_Live_Demo-00ADD8?style=for-the-badge&logoColor=white"/>
-  </a>
-  <a href="https://github.com/rizky-ardiansah/go-fiber-gorm-jwt" target="_blank">
-    <img src="https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-```
-🎯 A modern note-taking application built with Go
-📦 Tech Stack: Go, GoFiber, PostgreSQL, React
-✨ Features: CRUD operations, User authentication
-```
-
-### 📝 NextBlog - Personal Blog
-
-<p>
-  <a href="https://rizkyardiansah-blog.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🔗_Live_Demo-000000?style=for-the-badge&logoColor=white"/>
-  </a>
-  <a href="https://github.com/rizky-ardiansah/next-clerk" target="_blank">
-    <img src="https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-```
-🎯 A personal blog platform with modern design
-📦 Tech Stack: Next.js, Clerk, Tailwind CSS, Prisma
-✨ Features: Responsive design, Fast loading
-```
-
-</div>
 
 ### 🌟 Open to:
 
